@@ -1,0 +1,8 @@
+{
+  "name": "ctx",
+  "version": "0.1.0",
+  "description": "Shows context window usage next to the chat input",
+  "author": { "name": "Ballganda" },
+  "license": "CC0-1.0",
+  "types": "./types/index.d.ts"
+}
